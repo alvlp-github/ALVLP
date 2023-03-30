@@ -1,4 +1,8 @@
+## About me
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
 :slightly_smiling_face:
-U+1F642
+
 
 ALVLP
